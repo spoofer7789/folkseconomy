@@ -9,7 +9,7 @@ pub enum Msg {
     HoverIndex(usize),
     Submit,
 }
-
+// create an access authentication token .
 pub struct CreateAccount {
     refs: Vec<NodeRef>,
     focus_index: usize,
@@ -28,7 +28,7 @@ impl CreateAccount {
 impl Component for CreateAccount {
     type Message = Msg;
     type Properties = ();
-
+//
     fn create(_ctx: &Context<Self>) -> Self {
         Self {
             focus_index: 0,

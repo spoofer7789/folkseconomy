@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/developer/Desktop/folkseconomy/frontend/target/wasm32-unknown-unknown/debug/build/typenum-c2a3026d02d120ef/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/developer/Desktop/folkseconomy/frontend/target/wasm32-unknown-unknown/debug/build/typenum-c2a3026d02d120ef/out/op.rs
