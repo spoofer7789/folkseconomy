@@ -1,0 +1,28 @@
+[package]
+name = "frontend"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+crate-type = ["cdylib","rlib"]
+[dependencies]
+anyhow = { version = "1.0.68", features = ["backtrace"] }
+getrandom = { version = "0.2.8", features = ["js", "test-in-browser"] }
+gloo-net = "0.2.6"
+gloo-utils = "0.1.6"
+#orchard = "0.3.0"
+rand_core = "0.6.4"
+secp256k1 = {version = "0.26.0", features = ["rand"]}
+serde = { version = "1.0.152", features = ["derive", "rc"] }
+wasm-bindgen = { version = "0.2.83", features = ["serde-serialize"] }
+wasm-bindgen-futures = "0.4.34"
+web-sys = { version = "0.3.60", features = ["HtmlElement", "HtmlInputElement", "Node", "GpuSampler"] }
+
+yew = { version = "0.20.0", features = ["csr", "ssr"] }
+#yew-hooks = "0.2.0"
+yew-router = "0.17.0"
+#zcash_primitives = { version = "0.10.0", features = ["transparent-inputs"] }
+yew-ethereum-provider = { git = "https://github.com/monomadic/yew-ethereum-provider" }
+log = "0.4.17"
+wasm-logger = "0.2.0"

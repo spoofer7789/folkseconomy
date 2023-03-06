@@ -1,0 +1,11 @@
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/async_task-2c22fd2880538228.rmeta: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/header.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/raw.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/runnable.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/state.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/task.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/utils.rs
+
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/async_task-2c22fd2880538228.d: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/header.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/raw.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/runnable.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/state.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/task.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/utils.rs
+
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/lib.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/header.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/raw.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/runnable.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/state.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/task.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-4.3.0/src/utils.rs:

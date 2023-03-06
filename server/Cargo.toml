@@ -1,0 +1,13 @@
+[package]
+name = "server"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+name = "server"
+crate-type = ["rlib","cdylib"]
+[dependencies]
+futures = "0.3.25"
+libp2p = { version = "0.51.0", features = ["full"] }
+ async-std = { version = "1.10.0", features = ["attributes"] }

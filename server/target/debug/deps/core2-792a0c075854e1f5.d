@@ -1,0 +1,12 @@
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/core2-792a0c075854e1f5.rmeta: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/error.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/mod.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/cursor.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/error.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/impls.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/traits.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/util.rs
+
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/core2-792a0c075854e1f5.d: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/error.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/mod.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/cursor.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/error.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/impls.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/traits.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/util.rs
+
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/lib.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/error.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/mod.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/cursor.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/error.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/impls.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/traits.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/core2-0.4.0/src/io/util.rs:

@@ -1,0 +1,10 @@
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/tinytemplate-4f6c33d0d381a052.rmeta: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/compiler.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/error.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/instruction.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/syntax.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/template.rs
+
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/tinytemplate-4f6c33d0d381a052.d: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/compiler.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/error.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/instruction.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/syntax.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/template.rs
+
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/lib.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/compiler.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/error.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/instruction.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/syntax.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.2.1/src/template.rs:

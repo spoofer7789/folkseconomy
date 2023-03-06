@@ -1,0 +1,8 @@
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/libp2p_request_response-9296c2b54b6f26b4.rmeta: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-request-response-0.24.0/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-request-response-0.24.0/src/codec.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-request-response-0.24.0/src/handler.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-request-response-0.24.0/src/handler/protocol.rs
+
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/libp2p_request_response-9296c2b54b6f26b4.d: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-request-response-0.24.0/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-request-response-0.24.0/src/codec.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-request-response-0.24.0/src/handler.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-request-response-0.24.0/src/handler/protocol.rs
+
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-request-response-0.24.0/src/lib.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-request-response-0.24.0/src/codec.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-request-response-0.24.0/src/handler.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-request-response-0.24.0/src/handler/protocol.rs:

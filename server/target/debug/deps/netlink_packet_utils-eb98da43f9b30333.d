@@ -1,0 +1,10 @@
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/netlink_packet_utils-eb98da43f9b30333.rmeta: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/macros.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/errors.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/parsers.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/traits.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/nla.rs
+
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/netlink_packet_utils-eb98da43f9b30333.d: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/macros.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/errors.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/parsers.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/traits.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/nla.rs
+
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/lib.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/macros.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/errors.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/parsers.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/traits.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/netlink-packet-utils-0.5.2/src/nla.rs:

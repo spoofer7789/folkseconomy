@@ -1,0 +1,11 @@
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/const_oid-8d9ec96e0f5c6a14.rmeta: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/checked.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/arcs.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/encoder.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/error.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/parser.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/../README.md
+
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/const_oid-8d9ec96e0f5c6a14.d: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/checked.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/arcs.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/encoder.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/error.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/parser.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/../README.md
+
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/lib.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/checked.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/arcs.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/encoder.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/error.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/parser.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/const-oid-0.9.1/src/../README.md:

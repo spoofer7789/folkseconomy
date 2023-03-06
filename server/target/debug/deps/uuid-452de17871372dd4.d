@@ -1,0 +1,14 @@
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/uuid-452de17871372dd4.rmeta: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/builder.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/error.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/parser.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/fmt.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/timestamp.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/v4.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/rng.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/external.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/macros.rs
+
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/uuid-452de17871372dd4.d: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/builder.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/error.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/parser.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/fmt.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/timestamp.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/v4.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/rng.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/external.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/macros.rs
+
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/lib.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/builder.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/error.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/parser.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/fmt.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/timestamp.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/v4.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/rng.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/external.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/macros.rs:

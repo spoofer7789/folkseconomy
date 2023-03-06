@@ -1,0 +1,10 @@
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/frontend/target/debug/deps/gloo_console-bb10aa9b0a4a2032.rmeta: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/console_dbg.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/counter.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/externs.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/macros.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/timer.rs
+
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/frontend/target/debug/deps/gloo_console-bb10aa9b0a4a2032.d: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/console_dbg.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/counter.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/externs.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/macros.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/timer.rs
+
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/lib.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/console_dbg.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/counter.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/externs.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/macros.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/timer.rs:

@@ -1,0 +1,11 @@
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/libasync_trait-ea32a6dcb1f30d6f.so: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/args.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/bound.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/expand.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/lifetime.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/parse.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/receiver.rs
+
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/async_trait-ea32a6dcb1f30d6f.d: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/args.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/bound.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/expand.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/lifetime.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/parse.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/receiver.rs
+
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/lib.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/args.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/bound.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/expand.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/lifetime.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/parse.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.63/src/receiver.rs:

@@ -1,0 +1,10 @@
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/unsigned_varint-3aa8fc2f2fbfbe95.rmeta: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/decode.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/encode.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/io.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/aio.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/codec.rs
+
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/unsigned_varint-3aa8fc2f2fbfbe95.d: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/decode.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/encode.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/io.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/aio.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/codec.rs
+
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/lib.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/decode.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/encode.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/io.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/aio.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/unsigned-varint-0.7.1/src/codec.rs:

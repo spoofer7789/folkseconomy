@@ -1,0 +1,12 @@
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/signature-cacfacd5aaa2303e.rmeta: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/hazmat.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/error.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/keypair.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signature.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signer.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/verifier.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/../README.md
+
+/home/developer/Desktop/Folkseconomy/workspace-15/folkseconomy/server/target/debug/deps/signature-cacfacd5aaa2303e.d: /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/lib.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/hazmat.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/error.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/keypair.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signature.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signer.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/verifier.rs /home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/../README.md
+
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/lib.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/hazmat.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/error.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/keypair.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signature.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/signer.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/verifier.rs:
+/home/developer/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.6.4/src/../README.md:
