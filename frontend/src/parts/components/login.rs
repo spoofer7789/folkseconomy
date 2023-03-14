@@ -2,7 +2,7 @@ use crate::parts::fragments::input::*;
 use crate::parts::utils::router::*;
 use web_sys::HtmlInputElement;
 use yew::prelude::*;
-use gloo_net::http::Request;
+use gloo_net::http::{Request, Method};
 use wasm_bindgen_futures::spawn_local;
 use yew_router::{prelude::*, navigator};
 use core::option::Option::*;
@@ -28,7 +28,6 @@ impl Component for LoginPage {
     type Properties = ();
 
     fn create(ctx: &Context<Self>) -> Self {
-        
         Self {
             focus_index: 0,
             refs: vec![NodeRef::default(), NodeRef::default()],
@@ -51,21 +50,22 @@ impl Component for LoginPage {
                 self.errors[1].clear();
                 if username_value == "" {
                     self.errors[0].to_string();
-                }       
-                       //create an async await function that
-                       // returns a token if the users password matches a password.
-                true
-              
-               }
-    }
-    // fn rendered( first_render: bool) {
-    //     if first_render {
-    //         self.apply_focus();
-    //     }
-    // }
-   
+                    self.apply_focus();
+                    return false;
+                }
+                if password_value == "" {
+                    self.errors[1].to_string();
+                    self.apply_focus();
+                    return false;
+                }
+                let request = Request::new("http://localhost:3000/api").method(Method::POST)
+                .header("Content-Type", "application/json")
+                .body(format!(r#"{{"email":"{}","password":"{}"}}"#, username_value, password_value));
+           return true;
+          }
     }
 
+    }
     fn view(&self, ctx: &Context<Self>) -> Html {
 
         let navigator = ctx.link().navigator().unwrap();
@@ -105,12 +105,5 @@ impl Component for LoginPage {
             </div>
         }
     }
+
 }
-// let onclick = Callback::from(move |_| {   });
-//make sure the app knows the input tags are connected to the button
-// #[function_component]
-// fn Web3Login() -> Html {
-//     html! {
-//         <input type="text" ref={}/>
-//     }
-// }
