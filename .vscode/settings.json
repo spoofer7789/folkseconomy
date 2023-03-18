@@ -1,4 +1,10 @@
 {
     "diffEditor.codeLens": true,
-    "editor.tabCompletion": "on"
+    "editor.tabCompletion": "on",
+    "chatgpt.promptPrefix.customPrompt1-enabled": true,
+    "chatgpt.promptPrefix.customPrompt2-enabled": true,
+    "chatgpt.telemetry.disable": false,
+    "chatgpt.gpt3.maxTokens": 4048,
+    "chatgpt.gpt3.apiKey": "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",
+    "chatgpt.gpt3.model": "gpt-4"
 }

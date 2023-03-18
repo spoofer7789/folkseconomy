@@ -1,20 +1,20 @@
-use orchard;
-use yew::prelude::*;
-//  struct
+// use orchard;
+// use yew::prelude::*;
+// //  struct
 
 
 
-struct Generate_wallet {
-    //spending key
-}
+// struct Generate_wallet {
+//     //spending key
+// }
 
-impl Component for Generate_wallet {
+// impl Component for Generate_wallet {
 
 
-#[function_component(Zcashwallet)]
- fn zcashwallet() -> Html {
-    html! {
+// #[function_component(Zcashwallet)]
+//  fn zcashwallet() -> Html {
+//     html! {
 
-    }
-}
+//     }
+// }
 }
