@@ -9,7 +9,7 @@ target = "index.html"
 rewrite = "/api"
 backend = "http://localhost:3000"
 #For queries
-
 # [[proxy]]
 # backend = ""
 # For web-sys p2p apps.
+

@@ -1,0 +1,27 @@
+{
+    "name": "orbitdb-issue-773",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "nodemon -x npm start",
+        "prestart": " node database/orbitdatabase.js",
+        "start": "node server.js",
+        "poststart": "trunk serve"
+    },
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "ethers": "^6.0.5",
+        "express": "^4.18.2",
+        "ipfs": "^0.39.1",
+        "mongodb": "^5.1.0",
+        "mongoose": "^7.0.2",
+        "nodemon": "2.0.2",
+        "orbit-db": "^0.23.1",
+        "orbit-db-access-controllers": "^0.4.0",
+        "orbit-db-identity-provider": "^0.5.0"
+    },
+    "license": "ISC",
+    "keywords": [],
+    "description": "Decentralized App",
+    "main": "index.js",
+    "author": ""
+}
